@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titusville Harley Davidson</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: Arial, sans-serif;
+            background: url('https://drive.google.com/uc?id=1TTK0Z0WF3Jle5dJWVszlBrlL-q9yV15t') no-repeat center center fixed;
+            background-size: cover;
+            color: #fff; /* White text color */
+        }
+        .content {
+            position: relative;
+            text-align: center;
+            padding: 100px 20px;
+        }
+        .logo {
+            max-width: 100px;
+            position: absolute;
+            top: 20px;
+            left: 20px;
+        }
+        .page-name {
+            position: absolute;
+            top: 30px;
+            left: 140px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .grey-shade {
+            background-color: rgba(128, 128, 128, 0.5); /* Grey semi-transparent background */
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .social-links {
+            position: absolute;
+            top: 140px;
+            left: 20px;
+            background-color: rgba(128, 128, 128, 0.5); /* Grey semi-transparent background */
+            padding: 15px;
+            border-radius: 5px;
+        }
+        .social-links a {
+            display: block;
+            margin-bottom: 5px;
+            color: #fff; /* White social media link color */
+            text-decoration: none;
+        }
+        .bio-article-container {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 0 20px;
+            text-align: center;
+        }
+        .bio-section {
+            background-color: rgba(128, 128, 128, 0.5); /* Grey semi-transparent background */
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .article-section {
+            background-color: rgba(128, 128, 128, 0.5); /* Grey semi-transparent background */
+            padding: 15px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Content -->
+    <div class="content">
+        <img src="https://drive.google.com/uc?id=14YzqK52mRZiIIPGlIBEDxsajrezP2Cna" alt="Titusville Harley Davidson Logo" class="logo">
+        <div class="page-name">Titusville Harley Davidson</div>
+
+        <!-- Social Media Links -->
+        <div class="social-links">
+            <a href="https://www.facebook.com/titusville.harley.davidson" target="_blank">Facebook</a>
+            <a href="https://www.youtube.com/@TitusvilleHarleyDavidson" target="_blank">YouTube</a>
+            <a href="https://www.tiktok.com/@titusvilleharleydavidson" target="_blank">TikTok</a>
+            <a href="https://twitter.com/TitusvilleHD" target="_blank">Twitter</a>
+            <!-- Add more social media links here -->
+        </div>
+    </div>
+    
+    <!-- Bio and Article Section Container -->
+    <div class="bio-article-container">
+        <!-- Bio Section -->
+        <div class="bio-section">
+            <p>A hub for Harley enthusiasts on Florida's East Coast. Join us to share information about Harley Davidson motorcycles, personalities in the motorcycle industry and culture, local scenic routes, and event information.</p>
+        </div>
+        
+        <!-- Article Section -->
+        <div class="article-section">
+            <h3>Let's Roll</h3>
+            <div class="grey-shade">
+                <p>Join us in promoting the Harley Davidson lifestyle in the Central Florida area. We invite businesses, organizations, and individuals to get involved and help us celebrate the freedom of the open road. Whether it's through events, collaborations, or sharing your own Harley experiences, together we can create a thriving community. Contact us at <a href="mailto:titusvilleharleydavidson@usa.com">titusvilleharleydavidson@usa.com</a> to learn more and be a part of the ride.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
